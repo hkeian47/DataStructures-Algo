@@ -1,7 +1,5 @@
 # DataStructures-Algo
 
-This repository is mostly filled with algorithms and data structures that I practice.
-
 - [ ]  Lists
 - [ ]  Linked Lists
 - [ ]  Doubly Linked Lists
